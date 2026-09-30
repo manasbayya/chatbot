@@ -1,0 +1,3 @@
+"""
+OpenRouter Chatbot Services Package
+"""
